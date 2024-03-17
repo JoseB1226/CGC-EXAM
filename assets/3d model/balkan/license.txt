@@ -1,0 +1,11 @@
+Model Information:
+* title:	BALKAN | CS2 Agent Model Romanov
+* source:	https://sketchfab.com/3d-models/balkan-cs2-agent-model-romanov-0c83f3a838074dc8be8a47a3383b3fc4
+* author:	6lucius (https://sketchfab.com/6lucius)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BALKAN | CS2 Agent Model Romanov" (https://sketchfab.com/3d-models/balkan-cs2-agent-model-romanov-0c83f3a838074dc8be8a47a3383b3fc4) by 6lucius (https://sketchfab.com/6lucius) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
